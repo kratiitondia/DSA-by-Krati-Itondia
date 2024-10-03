@@ -30,7 +30,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Space Complexity**: O(1)
 - Uses a heap data structure. Not stable but has good performance.
 
-### Insertion Sort
+### Insertion Sort [(Click Here to understand)]
 - **Time Complexity**: Best - O(n), Average/Worst - O(n²)
 - **Space Complexity**: O(1)
 - Works well for small or nearly sorted datasets.
