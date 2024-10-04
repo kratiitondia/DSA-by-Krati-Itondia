@@ -40,7 +40,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Space Complexity**: O(n)
 - Divides and conquers. Stable and efficient for large datasets.
 
-### Quick Sort
+### Quick Sort (https://github.com/kratiitondia/DSA-by-Krati-Itondia/blob/main/QuickSort.cpp)
 - **Time Complexity**: Best/Average - O(n log n), Worst - O(n²)
 - **Space Complexity**: O(log n)
 - Efficient in practice but can degrade with poor pivot selection.
