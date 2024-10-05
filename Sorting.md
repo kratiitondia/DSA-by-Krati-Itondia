@@ -25,7 +25,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Space Complexity**: O(k)
 - Efficient for data with limited range values (integers).
 
-### Heap Sort
+### Heap Sort [(Click Here to understand)]
 - **Time Complexity**: Best/Average/Worst - O(n log n)
 - **Space Complexity**: O(1)
 - Uses a heap data structure. Not stable but has good performance.
