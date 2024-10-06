@@ -20,7 +20,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - **Space Complexity**: O(n + k)
 - Used for data uniformly distributed over a range.
 
-### Counting Sort 
+### Counting Sort [(Click here to understand)]
 - **Time Complexity**: O(n + k)
 - **Space Complexity**: O(k)
 - Efficient for data with limited range values (integers).
