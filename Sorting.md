@@ -28,7 +28,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - Efficient for data with limited range values (integers).
 - [C++ Code with Explaination](https://github.com/kratiitondia/DSA-by-Krati-Itondia/blob/main/CountingSort.cpp)
 
-### Heap Sort [(Click Here to understand)](https://github.com/kratiitondia/DSA-by-Krati-Itondia/blob/main/HeapSort.cpp)
+### Heap Sort
 - **Time Complexity**: Best/Average/Worst - O(n log n)
 - **Space Complexity**: O(1)
 - Uses a heap data structure. Not stable but has good performance.
