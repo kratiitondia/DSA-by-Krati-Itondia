@@ -46,7 +46,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - Divides and conquers. Stable and efficient for large datasets.
 - [C++ Code with Explaination](https://github.com/kratiitondia/DSA-by-Krati-Itondia/blob/main/MergeSort.cpp)
 
-### Quick Sort [(Click here to understand)](https://github.com/kratiitondia/DSA-by-Krati-Itondia/blob/main/QuickSort.cpp)
+### Quick Sort
 - **Time Complexity**: Best/Average - O(n log n), Worst - O(n²)
 - **Space Complexity**: O(log n)
 - Efficient in practice but can degrade with poor pivot selection.
