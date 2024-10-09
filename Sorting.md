@@ -40,7 +40,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - Works well for small or nearly sorted datasets.
 - [C++ Code with Explaination](https://github.com/kratiitondia/DSA-by-Krati-Itondia/blob/main/InsertionSort.cpp)
 
-### Merge Sort [(Click here to understand)](https://github.com/kratiitondia/DSA-by-Krati-Itondia/blob/main/MergeSort.cpp)
+### Merge Sort 
 - **Time Complexity**: O(n log n)
 - **Space Complexity**: O(n)
 - Divides and conquers. Stable and efficient for large datasets.
