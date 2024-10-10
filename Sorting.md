@@ -52,7 +52,7 @@ Below are the sorting algorithms you've mentioned, along with their time and spa
 - Efficient in practice but can degrade with poor pivot selection.
 - [C++ Code with Explaination](https://github.com/kratiitondia/DSA-by-Krati-Itondia/blob/main/QuickSort.cpp)
 
-### Radix Sort [(Click Here to understand)](https://github.com/kratiitondia/DSA-by-Krati-Itondia/blob/main/RadixSort.cpp)
+### Radix Sort
 - **Time Complexity**: O(nk)
 - **Space Complexity**: O(n + k)
 - Works for integers, based on digit-by-digit sorting.
