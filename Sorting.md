@@ -1,7 +1,7 @@
 # Sorting
 Sorting is the process of arranging data in a specific order (e.g., ascending or descending). It's a fundamental task in computer science used to organize data for efficient searching, manipulation, and analysis.
 
-## Time Complexity
+## Time Complexity 
 Time complexity measures the time taken by an algorithm to run as a function of the length of the input. It helps to understand the efficiency of an algorithm, particularly when the size of the input grows.
 
 ## Space Complexity
